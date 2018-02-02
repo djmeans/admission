@@ -1,0 +1,23 @@
+header {
+  background-image: url("http://dirtymartini.uk.com/wp-content/uploads/2015/12/Cocktails-new-2000x769-1.jpg");
+  background-position: center top;
+  background-size: cover;
+  padding: 10vw 2em;
+}
+body {
+  background-color: beige;
+  margin: 0 auto;
+  max-width: 50em;
+  line-height: 1.5;
+  padding: 4em 1em;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 18px;
+}
